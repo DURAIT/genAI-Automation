@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-09-30T17:54:26",
+  "contacts_file": "contacts.xlsx",
+  "total_contacts": 2,
+  "successful": 2,
+  "failed": 0,
+  "skipped": 0,
+  "contacts": [
+    {
+      "row": 2,
+      "name": "Home.mithun.brother",
+      "phone": "9080034010",
+      "message": "Hi",
+      "status": "sent",
+      "screenshot": "screenshots\\2026-09-30_0001_Home_mithun_brother.png",
+      "last_3_messages": [],
+      "error": "",
+      "timestamp": "2026-09-30T17:52:36"
+    },
+    {
+      "row": 3,
+      "name": "Wife",
+      "phone": "9952308596",
+      "message": "Hi",
+      "status": "sent",
+      "screenshot": "screenshots\\2026-09-30_0002_Wife.png",
+      "last_3_messages": [],
+      "error": "",
+      "timestamp": "2026-09-30T17:54:26"
+    }
+  ]
+}
